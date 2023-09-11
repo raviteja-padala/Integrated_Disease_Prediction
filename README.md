@@ -19,11 +19,13 @@ The business need for this project is to provide a user-friendly tool that allow
 4. Provide clear and actionable results.
 5. Promote early disease detection and prevention.
 
+## **`Web application view`**
+
+![image](https://github.com/raviteja-padala/Datasets/blob/main/images/dispred_.gif)
+
 ## **`Deliverables:`**
 1. Web application for integrated disease prediction.
 2. Trained machine learning models for heart disease, liver disease, and kidney disease.
-3. User documentation and instructions.
-4. Presentation materials for stakeholders.
 
 ## **`Project Scope:`**
 - The project will cover three major disease types: heart disease, liver disease, and kidney disease.
@@ -38,6 +40,9 @@ The business need for this project is to provide a user-friendly tool that allow
 - Users are responsible for seeking professional medical advice for any health concerns.
 - The web application may not consider all possible risk factors.
 
+## **`Sample Prediction`**
+![image](https://github.com/raviteja-padala/Datasets/blob/main/images/dispred.gif)
+
 ## **`Future Enhancements:`**
 In the future, this project can be enhanced in the following ways:
 1. Expansion of disease types covered.
@@ -48,3 +53,6 @@ In the future, this project can be enhanced in the following ways:
 
 ## **`Conclusion:`**
 The Integrated Disease Prediction project addresses a crucial need for early disease detection and prediction. By providing a user-friendly tool, it aims to empower individuals to take proactive steps towards better health. Additionally, it offers healthcare professionals an additional resource for patient care and disease prevention. While the project has limitations, it serves as a valuable starting point for further advancements in the field of health prediction and disease prevention.
+
+
+## Thank you.
